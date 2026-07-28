@@ -2,15 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Zing Fu
+  given: Zih-Ying
+  family: Fu
+  alternate: '傅子英'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+[]
 status:
   icon: "☕️"
 role: Senior AI Research Scientist
